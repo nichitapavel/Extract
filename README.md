@@ -109,7 +109,7 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [🕰 Repair Watch Yantar or Jantar or Amber 65181 GR2.815.039 K264GF1 USSR](https://www.youtube.com/watch?v=WlTLJ5uBP2k)
+- [🕰 Repair Watch Yantar or Jantar or Янтарь 65181 GR2.815.039 K264GF1 USSR](https://www.youtube.com/watch?v=WlTLJ5uBP2k)
 - [ Fix Mouse Toggle on Firestick | Fire TV Lite with macOS Apple](https://www.youtube.com/watch?v=xJIqc9dbN88)
 - [iPhone iOS Photography Tips &amp; Tricks | Photo Camera mode start to make video](https://www.youtube.com/watch?v=Zrah47kr1x0)
 - [iOS Emoji Trick Super Function from Apple iOS](https://www.youtube.com/watch?v=d1-FrBWoLxE)
