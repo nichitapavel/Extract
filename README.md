@@ -22,6 +22,8 @@ Before running the function, the value of the Internal Field Separator (IFS) is 
 
 Overall, this function provides a convenient way to extract a wide variety of archive formats using a single command, simplifying and streamlining the extraction process.
 
+
+<br /><br />
 How to install (macOS)
 -------------------------
 
@@ -36,7 +38,16 @@ add command into file `~/.bash_profile` or `~/.zshrc` or `~/.functions`
 export PATH=<path_to_file>/extract.sh:$PATH
 ```
 
+```bash
+source <path_to_file>/extract.sh
+```
+
 So don't delay, update your `~/.bash_profile` today and supercharge your file management capabilities!
+
+or
+```bash
+curl -L -o install_extract.sh https://raw.githubusercontent.com/xvoland/Extract/master/install_extract.sh && bash install_extract.sh && rm install_extract.sh
+```
 
 <br />
 
@@ -45,11 +56,33 @@ So don't delay, update your `~/.bash_profile` today and supercharge your file ma
 Copy&Paste function into file `~/.bashrc`
 
 
-I use hosting
+<br /><br />
+How to Use the Installer
 -------------
 
-[My hosting here][hosting]
+Copy the above code into a file, for example, install_extract.sh.
 
+#### Download:
+
+```bash
+git clone https://github.com/xvoland/Extract.git
+cd Extract
+```
+
+#### Make the script executable:
+
+```bash
+chmod +x install_extract.sh
+```
+
+#### Run the script:
+
+```bash
+./install_extract.sh
+```
+
+
+<br /><br />
 How it use
 ----------
 
@@ -82,6 +115,13 @@ Regardless of whether funding is obtained or not, I will persist in refining the
 
 ## ⚠️ Sponsors
 Extract community? Help us keep it alive by donating funds to cover project expenses!
+
+### Crypto
+
+**BTC (ERC20):** 0x17496b75d241d377334717f8cbc16cc1a5b80396<br />
+**USDT (TRC20):** TAAsGXjNoQRJ7ewxSBL2W3DUCoG7h8LCT6
+
+### Other
 
 [Become a sponsor][opencollective]
 
@@ -123,5 +163,4 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 [paypal]: https://paypal.me/xvoland
 [youtube]: https://youtube.com/xvoland
 [instagram]: https://www.instagram.com/xvoland/
-[hosting]: https://goo.gl/3KpxQI
 [opencollective]: https://opencollective.com/extract/backers/0/website
