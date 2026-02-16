@@ -101,12 +101,6 @@ $ extract <archive_filename_1.extention> <archive_filename_2.extention> <archive
 ### Donation
 
 Regardless of whether funding is obtained or not, I will persist in refining the script's capabilities because it brings me joy to witness people using it and achieving their goals. However, I would be grateful for any support you could offer in offsetting the costs of hosting the domain and the time spent programming, which would otherwise encroach on my precious family time.
-
-[Donate any amount for my projects][paypal]
-
-
-<a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9D4YBRWH8QURU'><img alt='Click here to lend your support to Extractor and make a donation!' src='https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif' border='0' /></a>
-
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland&show_icons=true&theme=radical&hide_border=true)
 
@@ -115,52 +109,12 @@ Regardless of whether funding is obtained or not, I will persist in refining the
 
 ## ⚠️ Sponsors
 Extract community? Help us keep it alive by donating funds to cover project expenses!
-
-### Crypto
-
-**BTC (ERC20):** 0x17496b75d241d377334717f8cbc16cc1a5b80396<br />
-**USDT (TRC20):** TAAsGXjNoQRJ7ewxSBL2W3DUCoG7h8LCT6
-
 ### Other
 
-[Become a sponsor][opencollective]
-
-[<img src="https://opencollective.com/extract/backers/0/avatar">][opencollective]
-<br />
 
 ## ⛔ License
 &copy; 2013, [Vitalii Tereshchuk][home] via MIT license.
 <br />
 
-## Other
-### ☎️  Connect with me:
-
-<p align="left">
-  <a href="https://youtube.com/xvoland" target="blank"><img align="center" src="https://raw.githubusercontent.com/xvoland/xvoland/main/images/youtube.svg" alt="Youtube channel" height="30" width="40" /></a>
-  <a href="https://instagram.com/xvoland" target="blank"><img align="center" src="https://raw.githubusercontent.com/xvoland/xvoland/main/images/instagram.svg" alt="xVoLAnD" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/vitalij-terescsuk-02b4689/" target="blank"><img align="center" src="https://raw.githubusercontent.com/xvoland/xvoland/main/images/linked-in-alt.svg" alt="xVoLAnD" height="30" width="40" /></a>
-  <a href="https://dotoca.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/xvoland/xvoland/main/images/logo-dotoca.svg" alt="DOTOCA Ltd." height="50" width="80" /></a>
-</p>
-
-<br />
-<br />
-
 ---
 
-📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [3D Animation Coin - Donald J Trump - E PLURIBUS UNUM](https://www.youtube.com/shorts/x3gLBwX4Gng)
-- [Power Button - Save You Money | Double Tap to Lock Your Phone](https://www.youtube.com/shorts/-3ZQmv3_b5U)
-- [Save Money On the Repair Power Button of iPhone With This Simple Trick](https://www.youtube.com/watch?v=dN43NRu_ASU)
-- [Donald Trump Coin | This AI Nano Banana Created a Donald Trump Coin Prompt 💰 &lpar;Viral Image Method&rpar;](https://www.youtube.com/watch?v=5oFypSseiVM)
-- [🔥 LifeHack - Test a Fuse Using Your Phone #lifehacks](https://www.youtube.com/watch?v=DPF-gKLi-eY)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
-
-[home]: http://dotoca.net
-[paypal]: https://paypal.me/xvoland
-[youtube]: https://youtube.com/xvoland
-[instagram]: https://www.instagram.com/xvoland/
-[opencollective]: https://opencollective.com/extract/backers/0/website
